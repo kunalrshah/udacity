@@ -1,0 +1,35 @@
+
+.unused {
+    border: 1px solid red !important;
+}
+
+body {
+	font-family: Lato;
+	color: #131A2D;
+	font-weight: 300;
+}
+
+.appURL {
+	font-size:14px;
+}
+
+.udacityLogo {
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	text-align: center;
+	color: #f8981c;
+	font-weight: bolder;
+	font-size: 72px;
+	font-family: Jura;
+	border-color: #f8981c;
+	border-style: solid;
+	border-width: 5px;
+}
+
+.appName{
+	font-size:24px;
+}
+
