@@ -3,6 +3,10 @@
     border: 1px solid red !important;
 }
 
+hr {
+	width: 100%;
+}
+
 body {
 	font-family: Lato;
 	color: #131A2D;
